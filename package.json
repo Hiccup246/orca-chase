@@ -5,6 +5,7 @@
   "type": "module",
   "author": "James Watt",
   "homepage": "https://whalefollowmouse.com",
+  "packageManager": "npm@10.5.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/Hiccup246/orca-chase"
